@@ -1,0 +1,13 @@
+{
+  "itemGroup.eldritchtestmod": "Example Mod Tab",
+  "block.eldritchtestmod.example_block": "Example Block",
+  "item.eldritchtestmod.example_item": "Example Item",
+
+  "eldritchtestmod.configuration.title": "Eldritch Test Mod Configs",
+  "eldritchtestmod.configuration.section.eldritchtestmod.common.toml": "Eldritch Test Mod Configs",
+  "eldritchtestmod.configuration.section.eldritchtestmod.common.toml.title": "Eldritch Test Mod Configs",
+  "eldritchtestmod.configuration.items": "Item List",
+  "eldritchtestmod.configuration.logDirtBlock": "Log Dirt Block",
+  "eldritchtestmod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "eldritchtestmod.configuration.magicNumber": "Magic Number"
+}
